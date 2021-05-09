@@ -54,3 +54,9 @@ for i in range(70):
 se.set_salary(6000)
 print(se.get_salary())
 
+# Recap:
+# encapsulation 
+# abstraction 
+# public, private
+# _foo(), _x 
+# getter/setter
