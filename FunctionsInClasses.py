@@ -1,4 +1,4 @@
-# ----------------- CLASS & INSTANCE -----------------
+# ----------------- Functions In Classes -----------------
 
 # primitive data structures such as lists and strings
 
